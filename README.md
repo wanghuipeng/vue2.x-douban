@@ -21,7 +21,7 @@ node index.js
 // HTTP Server is running in http://127.0.0.1:8081
 ```
 
-最后打开浏览器，输入`localhost:8880`即可访问。效果图如下：
+最后打开浏览器，输入`localhost:8888`即可访问。效果图如下：
 
 ![text](../master/static/vue-douban-shrink.gif)
 
